@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=hsqStephenZhang)
-
-![](https://activity-graph.herokuapp.com/graph?username=hsqStephenZhang)
+![](https://github-readme-stats.vercel.app/api?username=hsqStephenZhang)  
 
 Here are some ideas to get you started:
 
